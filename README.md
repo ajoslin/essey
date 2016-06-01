@@ -1,2 +1,2 @@
 # essey
-An SSE EventSource that doesn't suck
+A SSE EventSource that doesn't suck
